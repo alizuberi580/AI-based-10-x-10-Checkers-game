@@ -5,7 +5,7 @@
 
 Project Title: 10x10 Checkers with AI using Minimax, Alpha-Beta Pruning
 
-Submitted By: Ateeb Azam, Muhammad Ali Zuberi, Huzaifa Bin Khalid
+Submitted By: Ateeb Azam 22K-4205, Muhammad Ali Zuberi 22K-4177, Huzaifa Bin Khalid 22K-4223
 Course: AI
 Instructor: Sir Abdullah Yaqoob
 Submission Date: 11th May 2025
