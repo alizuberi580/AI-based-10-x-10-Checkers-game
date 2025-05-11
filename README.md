@@ -4,6 +4,7 @@
 ## VIDEO LINK: https://drive.google.com/file/d/1QxcT-jhXKFswAU4Co5E2Xj1t7rxoyTTS/view?usp=sharing
 
 Project Title: 10x10 Checkers with AI using Minimax, Alpha-Beta Pruning
+
 Submitted By: Ateeb Azam, Muhammad Ali Zuberi, Huzaifa Bin Khalid
 Course: AI
 Instructor: Sir Abdullah Yaqoob
